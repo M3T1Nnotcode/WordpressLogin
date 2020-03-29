@@ -4,7 +4,7 @@ from selenium import webdriver
 USERNAME = 'mm'
 PASSWORD = '1234'
 
-#Kullanılacak tarayıcı
+#Kullanılacak tarayıcı ve site
 driver = webdriver.Firefox()
 driver.get('https://metingerdan.com/wp-admin')
 
