@@ -6,7 +6,7 @@ PASSWORD = '1234'
 
 #Kullanılacak tarayıcı ve site
 driver = webdriver.Firefox()
-driver.get('https://metingerdan.com/wp-admin')
+driver.get('https://site.com/wp-admin')
 
 
 #Login Giriş
